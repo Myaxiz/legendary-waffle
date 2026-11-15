@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "id": "itm_001",
+      "name": "Whole Milk",
+      "category": "dairy",
+      "quantity": 0,
+      "unit": "l",
+      "lowStockThreshold": 1,
+      "expiresAt": "2026-01-20",
+      "createdAt": "2026-01-01T10:00:00.000Z",
+      "updatedAt": "2026-01-01T10:00:00.000Z"
+    },
+    {
+      "id": "itm_002",
+      "name": "Basmati Rice",
+      "category": "pantry",
+      "quantity": 4,
+      "unit": "kg",
+      "lowStockThreshold": 1,
+      "expiresAt": null,
+      "createdAt": "2026-01-01T10:00:00.000Z",
+      "updatedAt": "2026-01-01T10:00:00.000Z"
+    },
+    {
+      "id": "itm_003",
+      "name": "Chicken Breast",
+      "category": "meat",
+      "quantity": 2,
+      "unit": "pack",
+      "lowStockThreshold": 1,
+      "expiresAt": "2026-01-15",
+      "createdAt": "2026-01-01T10:00:00.000Z",
+      "updatedAt": "2026-01-01T10:00:00.000Z"
+    },
+    {
+      "id": "itm_004",
+      "name": "Baby Spinach",
+      "category": "produce",
+      "quantity": 1,
+      "unit": "pack",
+      "lowStockThreshold": 2,
+      "expiresAt": "2026-01-18",
+      "createdAt": "2026-01-01T10:00:00.000Z",
+      "updatedAt": "2026-01-01T10:00:00.000Z"
+    },
+    {
+      "id": "itm_005",
+      "name": "Frozen Peas",
+      "category": "frozen",
+      "quantity": 3,
+      "unit": "pack",
+      "lowStockThreshold": 1,
+      "expiresAt": null,
+      "createdAt": "2026-01-01T10:00:00.000Z",
+      "updatedAt": "2026-01-01T10:00:00.000Z"
+    },
+    {
+      "id": "itm_006",
+      "name": "Orange Juice",
+      "category": "beverage",
+      "quantity": 2,
+      "unit": "l",
+      "lowStockThreshold": 1,
+      "expiresAt": "2026-01-25",
+      "createdAt": "2026-01-01T10:00:00.000Z",
+      "updatedAt": "2026-01-01T10:00:00.000Z"
+    }
+  ],
+  "manual": [
+    {
+      "id": "man_001",
+      "name": "Dish Soap",
+      "quantity": 1,
+      "unit": "count",
+      "createdAt": "2026-01-02T09:00:00.000Z",
+      "updatedAt": "2026-01-02T09:00:00.000Z"
+    }
+  ]
+}
